@@ -1,7 +1,7 @@
 # plugin-dedecms
 DedeCMS V5.7版本对接PAYJS支付插件
 
-![](https://cdn.payjs.cn/5f9175408f165)
+![](https://cdn.payjs.cn/5f9175b8a5142)
 
 ## 使用方法
 
