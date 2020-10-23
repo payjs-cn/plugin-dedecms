@@ -1,8 +1,8 @@
-# DedeCMS V5.7版本对接PAYJS支付插件
+## DedeCMS V5.7 版本对接 PAYJS 支付插件
 
 ![](https://cdn.payjs.cn/5f9175b8a5142)
 
-## 使用方法
+### 使用方法
 
 [点击下载模块XML文件](https://github.com/payjs-cn/plugin-dedecms/releases/download/V1.0/DEDECMS-PAYJS.xml)
 
